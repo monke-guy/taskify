@@ -6,11 +6,11 @@ import { ClerkLoaded, useOrganization } from "@clerk/nextjs";
 
 import { Skeleton } from "@/components/ui/skeleton";
 
-type InfoProps = {
+interface InfoProps {
   isPro: boolean;
 };
 
-export const Info = ({ isPro }: InfoProps) => {
+export const Info = ({ isPro, }: InfoProps) => {
   const { organization, isLoaded } = useOrganization();
   if (!isLoaded) return <Info.Skeleton />;
 

@@ -64,7 +64,9 @@ const handler = async (data: InputType): Promise<ReturnType> => {
     });
 
     // increase board count/decrase remaining board
-    if (!isPro) await increaseAvailableCount();
+    if (!isPro) {
+      await increaseAvailableCount();
+    }
 
     // create new activity log
     await createAuditLog({
