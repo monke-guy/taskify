@@ -54,7 +54,7 @@ const handler = async (data: InputType): Promise<ReturnType> => {
                 name: "taskify Pro",
                 description: "Unlimited boards for your organization.",
               },
-              unit_amount: 2000,
+              unit_amount: 1000,
               recurring: {
                 interval: "month",
               },

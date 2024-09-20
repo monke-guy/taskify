@@ -17,7 +17,7 @@ export const checkSubscription = async () => {
       stripeCurrentPeriodEnd: true,
       stripeCustomerId: true,
       stripePriceId: true,
-    },
+    },  
   });
 
   if (!orgSubscription) return false;
