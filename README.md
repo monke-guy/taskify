@@ -2,7 +2,8 @@
 
 # taskify - Collaborate, manage projects and reach new productivity peaks.
 
-![image](https://github.com/user-attachments/assets/e73f545c-f64d-4980-b72a-7f95464a9c01)
+![image](https://github.com/user-attachments/assets/f4b3a16d-d302-4965-9200-4a2dcfc9b539)
+
 
 <!-- Table of Contents -->
 <details>
@@ -178,13 +179,12 @@ NEXT_PUBLIC_APP_URL=http://localhost:3000
 
 ## :camera: Screenshots:
 
-![image](https://github.com/user-attachments/assets/e1fc225f-7b86-41a4-adc7-ada3f796988d)
+![image](https://github.com/user-attachments/assets/856cee4c-0f1d-457e-a773-ad90630c6bae)
+![image](https://github.com/user-attachments/assets/1aa1cdba-22b0-49f0-8867-11788eb7bdf0)
+![image](https://github.com/user-attachments/assets/837479ce-91c4-41b8-bda8-b23edbd27734)
+![image](https://github.com/user-attachments/assets/10afbe33-9e49-46b6-912a-cd63b01af719)
+![image](https://github.com/user-attachments/assets/bfb283ca-dd7a-49c8-bb0f-f1b87a64e278)
 
-![image](https://github.com/user-attachments/assets/64f99d42-4613-460f-8fa8-068bf923a15f)
-
-![image](https://github.com/user-attachments/assets/099f0725-e3fa-4509-b91a-9f32f741d1b1)
-
-![image](https://github.com/user-attachments/assets/632f18f3-7d2b-4dae-90a0-8687cd63d1eb)
 
 ## :gear: Tech Stack
 
